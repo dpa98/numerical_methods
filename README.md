@@ -1,1 +1,1 @@
-# numerical_methods
+This repository contains a variety of numerical methods implemented in C, organized by topic. It includes classical algorithms for root finding, interpolation, solving ODEs, systems of equations, and matrix operations. Supporting PDFs and examples are included where appropriate.
